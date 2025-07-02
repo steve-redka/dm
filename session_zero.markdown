@@ -125,3 +125,4 @@ permalink: /session zero/
 
 - [Нулевая сессия на dnd.su](https://5e14.dnd.su/articles/partners/359-sovety-nacinaiushhim-1-nulevaia-sessiia/)
 - [Curse of Strahd Reloaded: Session Zero](https://www.strahdreloaded.com/Chapter+1+-+Beginning+the+Campaign/Session+Zero)
+
