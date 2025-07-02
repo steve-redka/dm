@@ -29,9 +29,16 @@ github_username:  jekyll
 something: hi
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
+aux_links:
+  VK:
+    - https://vk.com/steve_redka
+  НРИ в Севастополе:
+    - https://vk.com/dmsteve
+  dnd.su:
+    - https://dnd.su
 
 # Exclude from processing.
 # The following items will not be processed, by default.
