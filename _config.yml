@@ -29,9 +29,10 @@ github_username:  jekyll
 something: hi
 
 # Build settings
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 aux_links:
   VK:
     - https://vk.com/steve_redka
